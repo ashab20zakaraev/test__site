@@ -85,6 +85,10 @@ h1, h2, h3, h4, h5, h6 {
     transition: all .3s linear;
 }
 
+.nav__link.active {
+    background: #ffbb42;
+}
+
 .nav__link:last-child {
     margin-right: 0;
 }
