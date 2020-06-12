@@ -1355,6 +1355,10 @@ h1, h2, h3, h4, h5, h6 {
     .intro__subtitle {
         font-size: 10px;
     }
+    
+    .intro {
+        margin-bottom: 130px;    
+    }
 
     /*About
     ================*/
@@ -1376,7 +1380,7 @@ h1, h2, h3, h4, h5, h6 {
     ================*/
 
     .works {
-        padding-top: 100px;
+        padding-top: 60px;
     }
 
     .works__block:first-child {
@@ -1449,7 +1453,7 @@ h1, h2, h3, h4, h5, h6 {
     ================*/
 
     .price {
-        padding-top: 100px;
+        padding-top: 70px;
     }
 
     /*Newsletter
@@ -1492,6 +1496,12 @@ h1, h2, h3, h4, h5, h6 {
 
     .newsletter {
         padding-top: 73px;
+    }
+    
+    /*Service
+    ====================*/
+    .service {
+        margin-bottom: 0px;
     }
 
 }
